@@ -1,0 +1,12 @@
+[
+    {
+      "rut": "12345678-9",
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "fecha_ingreso": "2024-12-01",
+      "rol": "admin",
+      "correo": "juan@gmail.com",
+      "password": "12345678",
+      "rePassword": "12345678"
+    }
+  ]

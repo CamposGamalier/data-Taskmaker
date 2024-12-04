@@ -1,0 +1,10 @@
+[
+  {
+    "id": "1",                    
+    "encargado": "12345",          
+    "tareaId": "987",             
+    "mensaje": "Por favor, dar prioridad a esta tarea que está por terminar: 'Revisión de código'.", 
+    "fecha": "2024-12-01T12:00:00Z",  
+    "leida": false                
+  }
+]

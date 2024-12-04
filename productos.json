@@ -1,0 +1,10 @@
+[
+    {
+      "sku": "PRD001",
+      "nombre": "Producto A",
+      "imagen": "url_imagen",
+      "cantidad": 100,
+      "descripcion": "Descripción del producto",
+      "precio_por_unidad": 10
+    }
+  ]
